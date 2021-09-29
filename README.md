@@ -11,5 +11,10 @@
 <img src="https://img.shields.io/badge/iCloud-FC5F22?style=for-the-badge&logo=icloud&logoColor=white" /> 
 <br>
 <br>
-## Sounds icode too 🎵
+## Sounds iCode Too 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<br>
+<br>
+## Words I Live By 🗣️
+Octavia E. Butler once said: 
+> There is nothing new under the sun, but there are new suns.
