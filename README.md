@@ -10,8 +10,9 @@
 <img src="https://img.shields.io/badge/Twitter-FC5F22?style=for-the-badge&logo=twitter&logoColor=white" />
 
 <br>
-<br>
+
 ### What I'm listening to on Spotify 🎵
+<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
