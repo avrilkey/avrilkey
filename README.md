@@ -12,8 +12,9 @@
 <br>
 
 ### What I'm listening to on Spotify 🎵
-<br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 <br>
 
 > There is nothing new under the sun, but there are new suns. - Octavia E. Butler
