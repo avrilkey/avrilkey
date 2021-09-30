@@ -1,14 +1,12 @@
 
 ![Header](https://github.com/avrilkey/avrilkey/blob/main/images/header.png)
 
-<br>
 
 ## Connect With Me 🔗   
-[<img src="https://img.shields.io/badge/LinkedIn-102581?style=for-the-badge&logo=linkedin&logoColor=white" />]("<https://www.linkedin.com/in/avrilkey/")
+[![image]("https://img.shields.io/badge/LinkedIn-102581?style=for-the-badge&logo=linkedin&logoColor=white")] ("https://www.linkedin.com/in/avrilkey/")
 <img src="https://img.shields.io/badge/dev.to-FF1ABF?style=for-the-badge&logo=devdotto&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitter-FC5F22?style=for-the-badge&logo=twitter&logoColor=white" />
 
-<br>
 
 ![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png)
 
