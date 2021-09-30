@@ -1,14 +1,17 @@
 
-![Header](https://github.com/avrilkey/avrilkey/blob/main/github/images/header.png)
-![About](https://github.com/avrilkey/avrilkey/blob/main/github/images/carbon.png)
+![Header](https://github.com/avrilkey/avrilkey/blob/main/images/header.png)
 
+<br>
 
 ## Connect With Me 🔗   
-<a href="<https://www.linkedin.com/in/avrilkey/"><img src="https://img.shields.io/badge/LinkedIn-102581?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![linkedin]("https://img.shields.io/badge/LinkedIn-102581?style=for-the-badge&logo=linkedin&logoColor=white")]("<https://www.linkedin.com/in/avrilkey/")
 <img src="https://img.shields.io/badge/dev.to-FF1ABF?style=for-the-badge&logo=devdotto&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitter-FC5F22?style=for-the-badge&logo=twitter&logoColor=white" />
 
 <br>
+
+![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png)
+
 
 ## Music I'm Listening To On <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" />
 
