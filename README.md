@@ -3,7 +3,8 @@
 
 ## Connect With Me 🔗 
   
-  
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/avrilkey/"><img src="https://img.shields.io/badge/linkedin-FC5F22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/avrilkey"><img src="https://img.shields.io/badge/dev.to-FF1ABF?style=for-the-badge&logo=devdotto&logoColor=white" />     </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,13 +16,14 @@
 ![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png)
 
 
-## Music I'm Listening To On <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" />
+## My Favorites On https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
-> There is nothing new under the sun, but there are new suns. - Octavia E. Butler
+  
+### > There is nothing new under the sun, but there are new suns. - Octavia E. Butler
 
 
 
