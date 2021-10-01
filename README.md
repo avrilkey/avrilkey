@@ -15,10 +15,10 @@
 
 
 
-![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png)
+![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png) <br>
 
 
-<hr>
+
 
 
   
