@@ -2,10 +2,13 @@
 ![Header](https://github.com/avrilkey/avrilkey/blob/main/images/header.png)
 
 
-## Connect With Me 🔗   
-[![image]("https://img.shields.io/badge/LinkedIn-102581?style=for-the-badge&logo=linkedin&logoColor=white")]("https://www.linkedin.com/in/avrilkey/")
-<img src="https://img.shields.io/badge/dev.to-FF1ABF?style=for-the-badge&logo=devdotto&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-FC5F22?style=for-the-badge&logo=twitter&logoColor=white" />
+  
+<p align="center">
+## Connect With Me 🔗 
+<a href="https://dev.to/avrilkey"><img src="https://img.shields.io/badge/dev.to-FF1ABF?style=for-the-badge&logo=devdotto&logoColor=white" />     </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ave_irl"><img src="https://img.shields.io/badge/Twitter-FC5F22?style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/avrilkey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 
 
 ![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png)
@@ -18,3 +21,6 @@
 <br>
 
 > There is nothing new under the sun, but there are new suns. - Octavia E. Butler
+
+
+
