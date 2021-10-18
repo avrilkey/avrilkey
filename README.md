@@ -1,7 +1,7 @@
 
 # Hi! I'm Avril, software Engineer based in NYC.
 
-## Connect With Me 🔗 
+Connect With Me 🔗 
   
 <br>
 
