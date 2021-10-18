@@ -1,5 +1,5 @@
 
-# Hi! I'm Avril, software Engineer based in NYC.
+# Hi I'm Avril! Software Engineer based in NYC.
 
 ![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png) <br><br><br>
 
