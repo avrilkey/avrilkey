@@ -1,6 +1,5 @@
 
-![Header](https://github.com/avrilkey/avrilkey/blob/main/images/header.png) <br><br>
-
+# Hi! I'm Avril, software Engineer based in NYC.
 
 ## Connect With Me 🔗 
   
