@@ -15,10 +15,6 @@ Connect With Me 🔗
 
 
   
-## My Favorite Sounds 🎧 <img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" /> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 
   
 
