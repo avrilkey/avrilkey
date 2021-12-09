@@ -7,7 +7,7 @@ I'm a tech enthusiast from NYC, currently majoring in Computer Information Syste
 
 * 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash
 * 🧠 Current challenge: AWS Solutions Architect Associate certification.
-* 💡 Interested in learning: Music technology, Technical writing & DevOps.
+* 📚 Interested in learning: Music technology, Technical writing & DevOps.
 * 👥 Groups: Colorstack, Women in Music, Google's Women TechMakers.
 * 🤸‍♀️ Hobbies: Rollerskating, Astrology and Curating playlists.
 <br><br><br>
