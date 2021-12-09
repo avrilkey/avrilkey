@@ -21,14 +21,6 @@ I'm a tech enthusiast from NYC, currently majoring in Computer Information Syste
 <a href="https://twitter.com/ave_irl"><img src="https://img.shields.io/badge/Twitter-1025a1?style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
   
-<br><br><br>
-### Some of my favorite tunes 🎼
-  
-  <br>
-  <br>
-  <br>
-  <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&cover_image=true&theme=default&bar_color=2df082&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=be2llv68ztkzjzovyy5ebl1we&redirect=true)
 
   
 
