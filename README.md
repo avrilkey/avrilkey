@@ -1,7 +1,13 @@
 
-# Hi I'm Avril! Software Engineer based in NYC.
+## Hi I'm Avril! Software Engineer from NYC.
 
-![About](https://github.com/avrilkey/avrilkey/blob/main/images/carbon.png) <br><br><br>
+![About]
+
+I'm a tech enthusiast currently majoring in Computer Information Systems at the NYC College of Technology. I specialize in learning new technologies, design thinking, collaboration and I'm looking for a role where I can utilize these skills.
+
+* Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash
+* Current challenge: AWS Solutions Archictect Associate certification.
+* Interested in learning: Music technology, Technical writing & Cloud computing.<br><br><br>
 
 Connect With Me 🔗 
   
