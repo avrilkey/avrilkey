@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a technologist from NYC with an interest in software development, currently majoring in Computer Information Systems at the NYC College of Technology. I specialize in learning new technologies, design thinking, collaboration and I'm looking for a role where I can utilize these skills.
+I'm a technologist from NYC with an interest in software development, currently majoring in Computer Information Systems at the NYC College of Technology. I specialize in learning new technologies, design thinking and collaboration.
 
 * 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash
 * 🧠 Current challenge: AWS Solutions Architect Associate certification.
