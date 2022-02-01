@@ -3,11 +3,11 @@
 
 <br>
 
-I'm a technologist from NYC with an interest in software development, currently majoring in Computer Information Systems at the NYC College of Technology but I am a self taught developer. I specialize in learning new technologies, design thinking and collaboration.
+I'm a technologist from NYC with an interest in web development and music, currently majoring in Computer Information Systems at the NYC College of Technology but I am a self taught developer. I specialize in learning new technologies, design thinking and collaboration.
 
-* 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash
-* 📚 Interested in learning: Music technology, Technical writing & DevOps.
-* 👥 Groups: Colorstack, Women in Music, Google's Women TechMakers.
+* 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash, Digital Marketing
+* 📚 Interested in learning: Music technology, Technical writing & Copywriting
+* 👥 Groups: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers, ColorStack.
 * 🤸‍♀️ Hobbies: Rollerskating, Astrology and Curating playlists.
 <br><br><br>
 
