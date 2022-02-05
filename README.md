@@ -7,7 +7,7 @@ I'm a technologist from NYC with an interest in web development and music, curre
 
 * 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash, Digital Marketing
 * 📚 Interested in learning: Music technology, Technical writing & Copywriting
-* 👥 Groups: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers, ColorStack.
+* 👥 Groups: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers.
 * 🤸‍♀️ Hobbies: Rollerskating, Astrology and Curating playlists.
 <br><br><br>
 
@@ -18,7 +18,7 @@ I'm a technologist from NYC with an interest in web development and music, curre
 <p align="center">
 <a href="https://www.linkedin.com/in/avrilkey/"><img src="https://img.shields.io/badge/linkedin-FC5F22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ave_irl"><img src="https://img.shields.io/badge/Twitter-1025a1?style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/be2llv68ztkzjzovyy5ebl1we?si=05sXSejyQsCECUykgYLB_A"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 
   
