@@ -3,7 +3,7 @@
 
 <br>
 
-I'm a technologist from NYC with an interest in web development and music, currently majoring in Computer Information Systems at the NYC College of Technology but I am a self taught developer. I specialize in learning new technologies, design thinking and collaboration.
+I'm a technologist from NYC with an interest in web development and music, currently majoring in Computer Information Systems at the NYC College of Technology but I am a self taught developer. I excel in learning new technologies, design thinking and collaboration.
 
 * 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash, Digital Marketing
 * 📚 Interested in learning: Music technology, Technical writing & Copywriting
