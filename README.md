@@ -3,10 +3,10 @@
 
 <br>
 
-I'm a technologist from NYC with an interest in web development and music, currently majoring in Computer Information Systems at the NYC College of Technology but I am a self taught developer. I excel in learning new technologies, design thinking and collaboration.
+Hi! I'm Avril! I'm a web developer from NYC, currently majoring in Computer Information Systems at the New York City College of Technology. I excel in learning new technologies, design thinking, collaboration and I'm looking for a role where I can utilize these skills.
 
 * 💻 Technical skills: Java, JavaScript, SQL, Bootstrap, API, Git, GitHub, Linux, Bash, Digital Marketing
-* 📚 Interested in learning: Music technology, Technical writing & Copywriting
+* 📚 Interested in learning: Music technology, Data Analytics, Digital Marketing & Technical writing/Copywriting
 * 👥 Groups: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers.
 * 🤸‍♀️ Hobbies: Rollerskating, Astrology and Curating playlists.
 <br><br><br>
