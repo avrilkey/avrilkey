@@ -7,7 +7,7 @@ Hi, I'm Avril! I'm from NYC, currently majoring in Computer Information Systems 
 
 * 💻 Technical skills: Java, JavaScript, SQL, MySQL, HTML, CSS, Bootstrap, PHP, Git, GitHub, Linux, Bash
 * 📚 Currently Learning: Data Analytics & Marketing Analytics
-* 👥 Groups: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers.
+* 👥 Communities: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers, ColorStack.
 * 🤸‍♀️ Hobbies: Rollerskating, Astrology and Curating playlists.
 <br><br><br>
 
