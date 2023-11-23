@@ -14,6 +14,7 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Version Control: Git, GitHub
 + Cloud Platforms: Azure
 + Integrated Development Environment: Eclipse, Visual Studio Code
+  
 <br>
 **Interests:**
 <br>
@@ -21,6 +22,7 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Data Analytics
 + Web Development
 + Technology in the Music & Healthcare Industries
+
 <br>
 **Communities Involvement:**
 <br>
@@ -28,6 +30,7 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Women in Technology & Entrepreneurship of New York
 + Google's Women TechMakers
 + CSTEP
+
 <br>
 **Hobbies:**
 <br>
