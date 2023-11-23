@@ -16,7 +16,7 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Integrated Development Environment: Eclipse, Visual Studio Code
   
 <br>
-** Interests: **
+**Interests:**
 <br>
 - System Administration
 - Data Analytics
