@@ -14,18 +14,17 @@ a New York City-based professional/student pursuing a major in Computer Informat
 + Version Control: Git, GitHub
 + Cloud Platforms: Azure
 + Integrated Development Environment: Eclipse, Visual Studio Code
-
+Interests:
 + System Administration
 + Database Systems / Administration
 + Web Development
 + Technology in the Music & Healthcare Industries
-
+Communities Involvement:
 - Women in Music
 - Women in Technology & Entrepreneurship of New York
 - Google's Women TechMakers
 - The Collegiate Science and Technology Entry Program (CSTEP)
-
-
+  Hobbies:
 - Rollerskating
 - DJing
 - Curating playlists
