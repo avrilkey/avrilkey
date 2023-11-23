@@ -6,7 +6,6 @@
 a New York City-based professional/student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
 
 **Technical Skills:**
-<br>
 + Operating Systems: Linux, Windows
 + Databases: SQL, MySQL, Oracle
 + Programming Languages: Java, JavaScript, PHP
@@ -30,7 +29,7 @@ a New York City-based professional/student pursuing a major in Computer Informat
 + The Collegiate Science and Technology Entry Program (CSTEP)
   <br>
   <br>
-  **Hobbies:**
+**Hobbies:**
 + Rollerskating
 + DJing
 + Curating playlists
