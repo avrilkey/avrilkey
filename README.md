@@ -3,7 +3,7 @@
 
 <br>
 
-Hi there! I'm Avril, a New York City-based student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
+a New York City-based professional/student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
 
 **Technical Skills:**
 <br>
@@ -14,23 +14,20 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Version Control: Git, GitHub
 + Cloud Platforms: Azure
 + Integrated Development Environment: Eclipse, Visual Studio Code
-  
-<br>
+ <br> 
 **Interests:**
 <br>
 - System Administration
-- Data Analytics
+- Database Systems / Administration
 - Web Development
 - Technology in the Music & Healthcare Industries
-
 <br>
 **Communities Involvement:**
 <br>
 - Women in Music
 - Women in Technology & Entrepreneurship of New York
 - Google's Women TechMakers
-- CSTEP
-
+- The Collegiate Science and Technology Entry Program (CSTEP)
 <br>
 **Hobbies:**
 <br>
