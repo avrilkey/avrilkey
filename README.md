@@ -5,7 +5,7 @@
 
 a New York City-based professional/student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
 <br>
-<code style="color : fuchsia">**Technical Skills:**</code>
+:woman_technologist: **Technical Skills:**
 + Operating Systems: Linux, Windows
 + Databases: SQL, MySQL, Oracle, Azure Data Studios
 + Programming Languages: Java, JavaScript, PHP
@@ -15,21 +15,21 @@ a New York City-based professional/student pursuing a major in Computer Informat
 + Integrated Development Environment: Eclipse, Visual Studio Code, NetBeans
 <br>
 <br>
-<code style="color : fuchsia">**Interests:**</code>
+:two_hearts: **Interests:**
 + System Administration
 + Database Systems / Administration
 + Web Development
 + Technology in the Music & Healthcare Industries
 <br>
 <br>
-<code style="color : fuchsia">**Communities Involvement:**</code>
+:people_hugging: **Communities Involvement:**
 + Women in Music
 + Women in Technology & Entrepreneurship of New York
 + Google's Women TechMakers
 + The Collegiate Science and Technology Entry Program (CSTEP)
 <br>
 <br>
-<code style="color : fuchsia">**Hobbies:**</code>
+**Hobbies:**
 + Rollerskating
 + DJing
 + Curating playlists
