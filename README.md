@@ -4,7 +4,7 @@
 <br>
 
 a New York City-based professional/student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
-<br>
+
 **Technical Skills:**
 + Operating Systems: Linux, Windows
 + Databases: SQL, MySQL, Oracle, Azure Data Studios
