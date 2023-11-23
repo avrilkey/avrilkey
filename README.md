@@ -7,7 +7,7 @@ a New York City-based professional/student pursuing a major in Computer Informat
 
 **Technical Skills:**
 + Operating Systems: Linux, Windows
-+ Databases: SQL, MySQL, Oracle, Azure Data Studios
++ Databases: SQL, MySQL, Oracle (DataModeler, SQL Developer, Live SQL), Azure Data Studios
 + Programming Languages: Java, JavaScript, PHP
 + Web Technologies: HTML, CSS, Bootstrap, XML
 + Version Control: Git, GitHub
