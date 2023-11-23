@@ -3,12 +3,39 @@
 
 <br>
 
-Hi, I'm Avril! I'm from NYC, currently a student majoring in Computer Information Systems at the New York City College of Technology. I excel in learning new technologies, design thinking, collaboration and I'm looking for a role where I can utilize these skills.
+Hi there! I'm Avril, a New York City-based student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
 
-* 💻 Technical skills: Linux, SQL, MySQL, Java, JavaScript, HTML, CSS, Bootstrap, PHP, XML, Git, GitHub, Oracle, Azure, Eclipse
-* 📚 Interests: System Administration, Data Analytics, Web Development, Technology + Music & Healthcare industries
-* 👥 Communities: Women in Music, Women in Technology & Entrepreneurship of New York, Google's Women TechMakers, CSTEP
-* 🤸‍♀️ Hobbies: Rollerskating, Astrology, DJing and Curating playlists.
+Technical Skills:
+<br>
+Operating Systems: Linux, Windows
+Databases: SQL, MySQL, Oracle
+Programming Languages: Java, JavaScript, PHP
+Web Technologies: HTML, CSS, Bootstrap, XML
+Version Control: Git, GitHub
+Cloud Platforms: Azure
+Integrated Development Environment: Eclipse, Visual Studio Code
+<br>
+Interests:
+<br>
+System Administration
+Data Analytics
+Web Development
+Technology in the Music & Healthcare Industries
+<br>
+Communities Involvement:
+<br>
+Women in Music
+Women in Technology & Entrepreneurship of New York
+Google's Women TechMakers
+CSTEP
+<br>
+Hobbies:
+<br>
+Rollerskating
+DJing
+Curating playlists
+
+
 <br><br><br>
 
 ### Connect With Me 🔗
