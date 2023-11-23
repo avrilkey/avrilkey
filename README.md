@@ -16,27 +16,27 @@ Hi there! I'm Avril, a New York City-based student pursuing a major in Computer 
 + Integrated Development Environment: Eclipse, Visual Studio Code
   
 <br>
-**Interests:**
+** Interests: **
 <br>
-+ System Administration
-+ Data Analytics
-+ Web Development
-+ Technology in the Music & Healthcare Industries
+- System Administration
+- Data Analytics
+- Web Development
+- Technology in the Music & Healthcare Industries
 
 <br>
 **Communities Involvement:**
 <br>
-+ Women in Music
-+ Women in Technology & Entrepreneurship of New York
-+ Google's Women TechMakers
-+ CSTEP
+- Women in Music
+- Women in Technology & Entrepreneurship of New York
+- Google's Women TechMakers
+- CSTEP
 
 <br>
 **Hobbies:**
 <br>
-+ Rollerskating
-+ DJing
-+ Curating playlists
+- Rollerskating
+- DJing
+- Curating playlists
 
 
 <br><br><br>
