@@ -19,7 +19,7 @@ A New York City-based professional/student pursuing a major in Computer Informat
 + System Administration
 + Database Systems / Administration
 + Web Development
-+ Technology in the Music & Healthcare Industries
++ Technology in the Government, Music & Healthcare Industries
 
 
 **Communities Involvement:**
@@ -43,7 +43,6 @@ A New York City-based professional/student pursuing a major in Computer Informat
 
 <p align="center">
 <a href="https://www.linkedin.com/in/avrilkey/"><img src="https://img.shields.io/badge/linkedin-FC5F22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ave_irl"><img src="https://img.shields.io/badge/Twitter-1025a1?style=for-the-badge&logo=twitter&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/be2llv68ztkzjzovyy5ebl1we?si=05sXSejyQsCECUykgYLB_A"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 
