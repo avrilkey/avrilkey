@@ -3,21 +3,24 @@
 
 <br>
 
-A New York City-based professional/student pursuing a major in Computer Information Systems at the New York City College of Technology. My passion lies in embracing new technologies, employing design thinking, and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
+A New York City-based civic tech professional and my passion lies in providing digital equity & inclusion, mapping and spatial analysis, embracing new technologies and fostering collaboration. I'm actively seeking opportunities to apply these skills in a professional setting.
 
 **Technical Skills:**
 + Operating Systems: Linux, Windows
-+ Databases: SQL, MySQL, Oracle (DataModeler, SQL Developer, Live SQL), Azure Data Studios
++ Data Analysis: Python, SQL, MySQL
++ Data Visualiztion: Tableau
++ GIS Software: ArcGIS, QGis
++ Databases: Oracle (DataModeler, SQL Developer, Live SQL), Azure Data Studios
 + Programming Languages: Java, JavaScript, PHP
 + Web Technologies: HTML, CSS, Bootstrap, XML
 + Version Control: Git, GitHub
-+ Cloud Platforms: Azure
-+ Integrated Development Environment: Eclipse, Visual Studio Code, NetBeans
++ Integrated Development Environment: Eclipse, Visual Studio Code
 
 
 **Interests:**
-+ System Administration
-+ Database Systems / Administration
++ Geospatial Information Systems
++ Digital Equity & Inclusion
++ Data Analytics
 + Web Development
 + Technology in the Government, Music & Healthcare Industries
 
