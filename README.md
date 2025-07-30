@@ -1,5 +1,5 @@
 
-# Hi I'm Avril! 💕
+# Hi I'm Avril! 
 
 <br>
 
@@ -9,7 +9,7 @@ A New York City-based civic tech professional and my passion lies in providing d
 + Operating Systems: Linux, Windows
 + Data Analysis: Python, SQL, MySQL
 + Data Visualiztion: Tableau
-+ GIS Software: ArcGIS, QGis
++ GIS/ Mapping Software: ArcGIS, QGis, Leaflet
 + Databases: Oracle (DataModeler, SQL Developer, Live SQL), Azure Data Studios
 + Programming Languages: Java, JavaScript, PHP
 + Web Technologies: HTML, CSS, Bootstrap, XML
